@@ -21,17 +21,26 @@ function ProjectsLayout() {
                   <div className="range sm"></div>
                 </div>
                 
-                <div className="project-name"></div>
-                <div className="range st"></div>
+                <div className="project-name">Sales Tracking</div>
+                <div className="container">
+                  <div className="range st"></div>
+                </div>
+                
 
-                <div className="project-name"></div>
-                <div className="range cd"></div>
-
-                <div className="project-name"></div>
-                <div className="range pd"></div>
-
-                <div className="project-name"></div>
-                <div className="range as"></div>
+                <div className="project-name">Customer Database</div>
+                <div className="container">
+                  <div className="range cd"></div>
+                </div>
+                
+                <div className="project-name">Payout Details</div>
+                <div className="container">
+                  <div className="range pd"></div>
+                </div>
+                
+                <div className="project-name">Account Setup</div>
+                <div className="container">
+                  <div className="range as"></div>
+                </div>
                 
             </div>
         </div>
